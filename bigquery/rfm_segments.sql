@@ -3,10 +3,10 @@
 -- Project: Football Jersey Sales Analysis
 -- Author: Odhiambo Paul Erick
 -- Date: 2026-05-24
--- Description: This SQL script performs RFM analysis on football jersey sales data to segment customers based on 
--- the recency, frequency, and monetary value of their purchases. 
--- The script combines monthly sales data, calculates RFM metrics, assigns scores, and creates customer segments 
--- for targeted marketing strategies.
+-- Description: This SQL script performs an RFM analysis on football jerseys sales data, to segment customers based on 
+-- their recency of purchase, frequency of purchase, and monetary value of their purchase. 
+-- The script combines monthly sales data from January 2025 to December 2025, calculates RFM metrics, assigns scores, 
+-- and creates customer segments for targeted marketing strategies.
 -- ---------------------------------------------------------------------------------------------------------------
 
 
