@@ -7,4 +7,3 @@ import glob
 folder_path = r"C:\Users\Erick.Odhiambo\Documents\Downloaded resources - Zips"
 
 #loading all files in the folder
-files = 
