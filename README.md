@@ -1,9 +1,21 @@
 -- In progress
 
-# Sales-RFM-Analysis
+# Customer-RFM-Analysis
 RFM Analysis in SQL + Power BI
 
-This SQL and Power BI project performs an RFM analysis on sales data, to group the customers into different segments driving retain customers and drive targeted marketing strategies
- who bought the jerseys based on their recency of purchase, frequency of purchase, and monetary value of their purchase. Monthly sales data from January 2025 to December 2025 is combined, RFM metrics are created and assigned scores.
-The RFM scores are then used segment the customers into different categories e.g. ‘Loyal VIPs’, ‘Potential Loyalists’, ‘Requires Attention’, and ‘At Risk’ customers, all in 
+In business, RFM stands for: 
+R - Recency of purchase
+F - Frequency of purchase
+M - Monetary value of purchase
+
+These three can be used to compute a customer's R score, F score and M score. The R, F and M score are then summed up (R + F + M) to calculate the customer's RFM total score.  
+This RFM total score is then used to group customers to help business analyze and understand their customers better. The customers with highest RFM score are grouped as VIPs and the company can strategies on how to serve them better. Customers with low RFM scores are easily tracked - they are 'At Risk' clients who a company loses but the company will now be able to retain them or plan better retention strategy.
+
+An RFM analysis is crucial. It grows a business's profit with better strategy that improves customer service and customer retaintion. 
+
+This project uses SQL to perform an RFM analysis on sales data. The data was generated using Perplexity AI. The products sold were jerseys bought from an online store from January 2025 to December 2025. 
+The monthly data is combined. Individual R, F and M scores are computed, summed up (R+F+M) and calculates the RFM scores.
+The customers were then grouped into different categories based on their RFM score. The groups included ‘Loyal VIPs’, ‘Potential Loyalists’, ‘Requires Attention’, and ‘At Risk’ customers.
+
+A Power BI dashboard was used to visualize the customers groups.
 
