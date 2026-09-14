@@ -4,9 +4,9 @@
 RFM Analysis in SQL + Power BI
 
 In business, RFM stands for: 
-R - Recency of purchase
-F - Frequency of purchase
-M - Monetary value of purchase
+R - Recency of purchase,
+F - Frequency of purchase,
+M - Monetary value of purchase.
 
 These three can be used to compute a customer's R score, F score and M score. The R, F and M score are then summed up (R + F + M) to calculate the customer's RFM total score.  
 This RFM total score is then used to group customers to help business analyze and understand their customers better. The customers with highest RFM score are grouped as VIPs and the company can strategies on how to serve them better. Customers with low RFM scores are easily tracked - they are 'At Risk' clients who a company loses but the company will now be able to retain them or plan better retention strategy.
